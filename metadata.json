@@ -1,0 +1,16 @@
+{
+  "name": "reidmv-fail_fast",
+  "version": "0.1.0",
+  "author": "Reid Vandewiele",
+  "license": "Apache-2.0",
+  "summary": "Abort Puppet mid-run in the event of resource failures in a class",
+  "source": "https://github.com/reidmv/reidmv-fail_fast",
+  "project_page": "https://github.com/reidmv/reidmv-fail_fast",
+  "dependencies": [ ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">=4.4.0"
+    }
+  ]
+}
